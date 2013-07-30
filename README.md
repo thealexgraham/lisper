@@ -1,4 +1,4 @@
-Lisper
+lisper
 =======
 a Max/MSP interface for Clozure Common Lisp
 
