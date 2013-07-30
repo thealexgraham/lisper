@@ -24,7 +24,7 @@ Usage
 ------------
 
 The best way to learn to use Lisper and to see what it can do is to check out the lisper help file and lisper-examples.lisp. Definitely do this!!
-
+![Lisper Help File](lisper-screenshot.png)
 
 NOTE: Lisper is currently tested with Clozure Common Lisp and Max 5. I don't see why it shouldn't work with Max 4, if osc-route can function. I think it would work with SBCL and such with a little modification to the port openings and such. 
 
