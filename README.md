@@ -4,9 +4,11 @@ a Max/MSP interface for Clozure Common Lisp
 
 by Alex Graham 
 alex@alexgraham.net
+
 (with thanks to Nik Gaffney for his OSC framework 
 and Peter Elsea for his CCL implementation)
 
+![Lisper Help File](lisper-screenshot.png)
 Overview
 ----------
 Lisper is an interface which allows easy correspondence between Max/MSP and Lisp with minimal work for the programmer. It allows for both Max and Lisp to do what they do best: Max handling real time input, output, timing and control, letting Lisp handle variable handling and of course the processing of large amounts of data.
@@ -24,7 +26,7 @@ Usage
 ------------
 
 The best way to learn to use Lisper and to see what it can do is to check out the lisper help file and lisper-examples.lisp. Definitely do this!!
-![Lisper Help File](lisper-screenshot.png)
+
 
 NOTE: Lisper is currently tested with Clozure Common Lisp and Max 5. I don't see why it shouldn't work with Max 4, if osc-route can function. I think it would work with SBCL and such with a little modification to the port openings and such. 
 
